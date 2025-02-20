@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="関西" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", KTV関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", YTV読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="関西" tvg-id="JOBKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合・大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+#EXTINF:-1 group-title="NHK" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+#EXTINF:-1 group-title="NHK" tvg-id="" tvg-logo="",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="NHK" tvg-id="" tvg-logo="",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="NHK" tvg-id="" tvg-logo="",NHK World News (French Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+#EXTINF:-1 group-title="NHK" tvg-id="" tvg-logo="",NHK World News (Portuguese Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+#EXTINF:-1 group-title="ラジオ" tvg-id="uniqueradio.jp" tvg-logo="https://www.agqr.jp/img/ag-420x420-2.png" group-title="Radio",超！A&G (360p)
+https://www.uniqueradio.jp/Alexa/amznecho.m3u8
+#EXTINF:-1 group-title="バラエティ" tvg-id="" tvg-logo="",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="フランス" tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png",TV5Monde Pacifique (1080p)
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="NHK" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
