@@ -1,0 +1,516 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+
+#関西
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・大阪 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・京都 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・教育_jp" tvg-logo="https://i.imgur.com/WxtftlO.png",NHKEテレ大阪 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=Efifu_2sffWgvfUzPuoNvA==
+
+#EXTINF:-1 group-title="関西" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="毎日テレビ_jp" tvg-logo="https://i.imgur.com/RfrkGrd.png",MBS毎日放送 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
+
+#EXTINF:-1 group-title="関西" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABCテレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="テレビ大阪_jp" tvg-logo="https://i.imgur.com/rUmrruq.png",テレビ大阪 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="関西テレビ_jp" tvg-logo="https://i.imgur.com/WMNg5De.png",関西テレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="読売テレビ_jp" tvg-logo="https://i.imgur.com/ONbuWvo.png",読売テレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#BS
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=thRBrsQy5LgM0YhR7EJudg==
+
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp" tvg-logo="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&height=180&color=ffffff",BSテレ東4K (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=i9U0n9TJ5odRHqWxtilBRA==
+
+#NHK
+
+#EXTINF:-1 group-title="NHK" tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXt0lOwQVNzg4IX0GQjrY02fJVRVEGLRcIg&s",NHK World Japan (HD)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 group-title="NHK" tvg-id="NHKワールド-PREMIUM_jp" tvg-logo="https://lh6.googleusercontent.com/proxy/1vKtDs9zSG92clWDBVs1s0qnX8iIPUzY4xcv5K4RZFL8L5vSutIHJyCSGWx3AIa9QeHbQeCkzWq-awLmPh04CFck83s5IRruKoAIa0HlEaa3",NHK World Premium (SD)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#バラエティ
+
+#EXTINF:-1 group-title="バラエティ" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/849955214857719809/d3mkXa-D_400x400.jpg",ガキの使いチャンネル (英語字幕) HD
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+
+#CS
+
+#EXTINF:-1 group-title="CS" tvg-id="旅チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png",旅チャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=bMt3M9FLE1owVWp5Do1qnQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="鉄道チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png",鉄道チャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=X5WzyzsdPL1pNzWxOctwBA==
+
+#EXTINF:-1 group-title="CS" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",FIGHTING TV サムライ (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=roHA-uoOn8d5muaZM04Qxg==
+
+#EXTINF:-1 group-title="CS" tvg-id="Pigoo_jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",アイドル専門チャンネルPigoo (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=epy3fdtnc1oI4z5JrjZzAQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="ダンスチャンネル_jp" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png",ダンスチャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=kKx57kaG4Tz9tOTiLx8exA==
+
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・エア_jp" tvg-logo="https://www.musicair.co.jp/wp-content/uploads/ma_logo.png", ミュージック・エア (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=IXnt-Gl6_yvCaN-Xpya22w==
+
+#EXTINF:-1 group-title="CS" tvg-id="ホームドラマチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png",ホームドラマチャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=859y5OLm0n2u1DZrEsgeFQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png",ミュージック・ジャパンTV (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=N-L_Pke3yIkFUoSaEova3g==
+
+#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png",歌謡ポップスチャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=1Tr6-XU6jnR9bECmjsJg8g==
+
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",カートゥーン ネットワーク (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=noeD-Yf5Rph09MTEByH-Xw==
+
+#Rチャンネル
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png",(R106) ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#ボートレース
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png",BOAT RACE 桐生(JLC)
+https://br-rp-mix-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-01-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace.jp/static/uploads/sites/4/2021/09/0b8deafb5972b9edaa7144bbe486cde7-391x250.png",BOAT RACE 戸田(JLC)
+https://br-rp-mix-02-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-02-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-edogawa.com/themes/edogawa/images_common/header_menu_0.png",BOAT RACE 江戸川(JLC)
+https://br-rp-mix-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-03-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.heiwajima.gr.jp/images/logo.gif",BOAT RACE 平和島(JLC)
+https://br-rp-mix-04-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-04-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-tamagawa.com/cdn/pc/images/common/logo_header.png",BOAT RACE 多摩川(JLC)
+https://br-rp-mix-05-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-05-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="http://www.boatrace-hamanako.jp/themes/hamanako/common/img/logo_header.png?ver1",BOAT RACE 浜名湖(JLC)
+https://br-rp-mix-06-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-06-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.gamagori-kyotei.com/common_img/logo.png",BOAT RACE 蒲郡(JLC)
+https://br-rp-mix-07-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-07-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-tokoname.jp/pc/ind_img/logo.png",BOAT RACE 常滑(JLC)
+https://br-rp-mix-08-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-08-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-tsu.com/cdn/pc/images/common/img_logo.png",BOAT RACE 津(JLC)
+https://br-rp-mix-09-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-09-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-id="JLC681.jp" tvg-logo="https://www.boatrace-mikuni.jp/cdn/pc/images/common/img_logo_header.png",BOAT RACE 三国(JLC)
+https://br-rp-mix-10-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-10-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-id="JLC680.jp" tvg-logo="https://www.boatrace-biwako.jp/themes/biwako/images/common/log-short-biwako.png",BOAT RACE びわこ(JLC)
+https://br-rp-mix-11-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-11-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-id="JLC684.jp" tvg-logo="https://pbs.twimg.com/profile_images/2094434448/twitter_suminoe_jumpy_400x400.png",BOAT RACE 住之江(JLC)
+https://br-rp-mix-12-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-12-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://boatrace.jp/static/uploads/sites/8/13_N-1.jpg",BOAT RACE 尼崎(JLC)
+https://br-rp-mix-13-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-13-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.n14.jp/cdn/pc/images/common/pc_logo_naruto.png",BOAT RACE 鳴門(JLC)
+https://br-rp-mix-14-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-14-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-id="JLC683.jp" tvg-logo="https://www.marugameboat.jp/images/h1_logo.png",BOAT RACE 丸亀(JLC)
+https://br-rp-mix-15-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-15-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.kojimaboat.jp/images/header_logo.gif",BOAT RACE 児島(JLC)
+https://br-rp-mix-16-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-16-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-miyajima.com/images/header_logo.png",BOAT RACE 宮島(JLC)
+https://br-rp-mix-17-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-17-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-tokuyama.jp/themes/tokuyama/images/common/log-header.png",BOAT RACE 徳山(JLC)
+https://br-rp-mix-18-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-18-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-id="JLC682.jp" tvg-logo="https://www.boatrace-shimonoseki.jp/cdn/pc/images/common/img_logo.png",BOAT RACE 下関(JLC)
+https://br-rp-mix-19-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-19-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.wmb.jp/img/common/h_logo.gif",BOAT RACE 若松(JLC)
+https://br-rp-mix-20-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-20-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9wKnjx_a9Clcau8CQ3hWoc1Prr_H0PLGaA&s",BOAT RACE 芦屋(JLC)
+https://br-rp-mix-21-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-21-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/22_N-1-1.jpg",BOAT RACE 福岡(JLC)
+https://br-rp-mix-22-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-22-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://www.boatrace-karatsu.jp/themes/karatsu/images/common/log-header.png",BOAT RACE 唐津(JLC)
+https://br-rp-mix-23-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-23-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース" tvg-logo="https://omurakyotei.jp/images/new_site/common/logo_white.png",BOAT RACE 大村(JLC)
+https://br-rp-mix-24-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-mix-24-live/brlive/chunklist.m3u8
+
+#ボートレース2
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="http://www.kiryu-kyotei.com/themes/kiryu/images/common/logo_header_01_1.png",BOAT RACE 桐生(ナイター) 
+https://br-rp-stadium-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-01-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace.jp/static/uploads/sites/4/2021/09/0b8deafb5972b9edaa7144bbe486cde7-391x250.png",BOAT RACE 戸田
+https://br-rp-stadium-02-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-02-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-edogawa.com/themes/edogawa/images_common/header_menu_0.png",BOAT RACE 江戸川
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-03-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.heiwajima.gr.jp/images/logo.gif",BOAT RACE 平和島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-04-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-tamagawa.com/cdn/pc/images/common/logo_header.png",BOAT RACE 多摩川
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-05-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="http://www.boatrace-hamanako.jp/themes/hamanako/common/img/logo_header.png?ver1",BOAT RACE 浜名湖
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-06-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.gamagori-kyotei.com/common_img/logo.png",BOAT RACE 蒲郡(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-07-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-tokoname.jp/pc/ind_img/logo.png",BOAT RACE 常滑
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-08-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-tsu.com/cdn/pc/images/common/img_logo.png",BOAT RACE 津
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-09-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-mikuni.jp/cdn/pc/images/common/img_logo_header.png",BOAT RACE 三国
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-10-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-biwako.jp/themes/biwako/images/common/log-short-biwako.png",BOAT RACE びわこ
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-11-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://pbs.twimg.com/profile_images/2094434448/twitter_suminoe_jumpy_400x400.png",BOAT RACE 住之江(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-12-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://boatrace.jp/static/uploads/sites/8/13_N-1.jpg",BOAT RACE 尼崎
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-13-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.n14.jp/cdn/pc/images/common/pc_logo_naruto.png",BOAT RACE 鳴門
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-14-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.marugameboat.jp/images/h1_logo.png",BOAT RACE 丸亀(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-15-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.kojimaboat.jp/images/header_logo.gif",BOAT RACE 児島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-16-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-miyajima.com/images/header_logo.png",BOAT RACE 宮島
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-17-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-tokuyama.jp/themes/tokuyama/images/common/log-header.png",BOAT RACE 徳山
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-18-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-shimonoseki.jp/cdn/pc/images/common/img_logo.png",BOAT RACE 下関(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-19-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.wmb.jp/img/common/h_logo.gif",BOAT RACE 若松(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-20-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9wKnjx_a9Clcau8CQ3hWoc1Prr_H0PLGaA&s",BOAT RACE 芦屋
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-21-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/22_N-1-1.jpg",BOAT RACE 福岡
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-22-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://www.boatrace-karatsu.jp/themes/karatsu/images/common/log-header.png",BOAT RACE 唐津
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-23-live/brlive/chunklist.m3u8
+
+#EXTINF:-1 group-title="ボートレース2" tvg-logo="https://omurakyotei.jp/images/new_site/common/logo_white.png",BOAT RACE 大村(ナイター)
+https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-24-live/brlive/chunklist.m3u8
+
+#競馬
+
+#EXTINF:-1 group-title="競馬",JRA公式
+https://ssl-cache.stream.ne.jp/www50/eqj128pfeu/jmc_pub/liveplaylist/v2/1_standard.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png",帯広競馬(ばんえい)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="LocalHorseRacingNine701.jp" tvg-logo="https://www.hokkaidokeiba.net/common/images/head/logo.png",ホッカイドウ競馬(紋別)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/monbetsu5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png",岩手競馬(盛岡)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/morioka5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://www.iwatekeiba.or.jp/dir/wp-content/themes/iwatekeiba/img/head_logo.png",岩手競馬(水沢)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/mizusawa5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="SouthernKantoRegionalHorseRacingChannel.jp" tvg-logo="https://www.urawa-keiba.jp/assets/img/common/logo.png",南関東競馬(浦和)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/urawa5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="SouthernKantoRegionalHorseRacingChannel.jp" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/funabashi.png",南関東競馬(船橋)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/funabashi5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="SouthernKantoRegionalHorseRacingChannel.jp" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/ooi.png",南関東競馬(大井)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/ooi5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="SouthernKantoRegionalHorseRacingChannel.jp" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kawasaki.png",南関東競馬(川崎)
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kawasaki5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kanazawa.png",金沢競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kanazawa5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="LocalHorseRacingNine703.jp" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/nagoya.png",名古屋競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/nagoya5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/kasamatsu.png",笠松競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kasamatsu5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png",園田競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/sonoda5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/sonoda.png",姫路競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/himeji5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-logo="https://www.keiba.or.jp/wp/wp-content/uploads/2016/07/0052a4614394e22c55614f818fd3138e.png",高知競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi5.m3u8
+
+#EXTINF:-1 group-title="競馬" tvg-id="LocalHorseRacingNine702.jp" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/saga.png",佐賀競馬
+http://movie61auhrn2.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
+
+#競輪(SPEED)
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://8200234-next4-bucket-production.s3.ap-northeast-1.amazonaws.com/public/fixed-page/body/XNXeVc97oBSKROP3y20UaYmGeLDEMsdpM2YVDYk2.jpg",函館競輪
+https://cfl.st.keirin.jp/11/dash/11.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.kyodo2023-aomori.com/img/common/footer_logo.png",青森競輪
+https://cfl.st.keirin.jp/12/dash/12.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedChannel690.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/010860.jpg",いわき平競輪
+https://cfl.st.keirin.jp/13/dash/13.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.yahikokeirin.com/wp-content/uploads/yahik_rogo4.png",弥彦競輪
+https://cfl.st.keirin.jp/21/dash/21.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.maebashi-keirin.jp/wp-content/themes/maebashi-template/images/logo.png",前橋競輪
+https://cfl.st.keirin.jp/22/dash/22.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.toride-keirin.com/assets/default/img/rogo02.png",取手競輪
+https://cfl.st.keirin.jp/23/dash/23.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://utsunomiya-keirin.jp/img/logo.png",宇都宮競輪
+https://cfl.st.keirin.jp/24/dash/24.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010037.jpg",大宮競輪
+https://cfl.st.keirin.jp/25/dash/25.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.iizuka-auto.jp/images/rogo.png",西武園競輪
+https://cfl.st.keirin.jp/26/dash/26.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedChannel692.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/011481.jpg",京王閣競輪
+https://cfl.st.keirin.jp/27/dash/27.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/011466.jpg",立川競輪
+https://cfl.st.keirin.jp/28/dash/28.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010118.jpg",松戸競輪
+https://cfl.st.keirin.jp/31/dash/31.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.kawasakikeirin.com/images/logo_kawasaki.png",川崎競輪
+https://cfl.st.keirin.jp/34/dash/34.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.shonanbank.com/wp-content/themes/hiratsuka/img/abema_shonanbank_blue.png",平塚競輪
+https://cfl.st.keirin.jp/35/dash/35.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012244.jpg",小田原競輪
+https://cfl.st.keirin.jp/36/dash/36.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedChannel694.jp" tvg-logo="https://www.itokeirin.com/img/logo.png",伊東温泉競輪
+https://cfl.st.keirin.jp/37/dash/37.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010091.jpg",静岡競輪
+https://cfl.st.keirin.jp/38/dash/38.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012322.jpg",豊橋競輪
+https://cfl.st.keirin.jp/45/dash/45.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/011199.jpg",名古屋競輪
+https://cfl.st.keirin.jp/42/dash/42.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.gifukeirin.jp/kinen2022/img/logo.png",岐阜競輪
+https://cfl.st.keirin.jp/43/dash/43.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.ogakikeirin.com/common/images/logos/logo.png?20190412",大垣競輪
+https://cfl.st.keirin.jp/44/dash/44.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010575.jpg",富山競輪
+https://cfl.st.keirin.jp/46/dash/46.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012274.jpg",松阪競輪
+https://cfl.st.keirin.jp/47/dash/47.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012276.jpg",四日市競輪
+https://cfl.st.keirin.jp/48/dash/48.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012278.jpg",福井競輪
+https://cfl.st.keirin.jp/51/dash/51.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedChannel693.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/012194.jpg",京都向日町競輪
+https://cfl.st.keirin.jp/54/dash/54.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.narakeirin.jp/img/footer_logo_01.png",奈良競輪
+https://cfl.st.keirin.jp/53/dash/53.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010182.jpg",和歌山競輪
+https://cfl.st.keirin.jp/55/dash/55.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012330.jpg",岸和田競輪
+https://cfl.st.keirin.jp/56/dash/56.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/011966.jpg",玉野競輪
+https://cfl.st.keirin.jp/61/dash/61.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010495.jpg",広島競輪
+https://cfl.st.keirin.jp/62/dash/62.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012237.jpg",防府競輪
+https://cfl.st.keirin.jp/63/dash/63.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://www.takamatsu-keirin.com/assets/img/common/logo_f.png",高松競輪
+https://cfl.st.keirin.jp/71/dash/71.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/010707.jpg",小松島競輪
+https://cfl.st.keirin.jp/73/dash/73.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/011427.jpg",高知競輪
+https://cfl.st.keirin.jp/74/dash/74.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012014.jpg",松山競輪
+https://cfl.st.keirin.jp/75/dash/75.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012279.jpg",小倉競輪
+https://cfl.st.keirin.jp/81/dash/81.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedChannel691.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/012074.jpg",久留米競輪
+https://cfl.st.keirin.jp/83/dash/83.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/011866.jpg",武雄競輪
+https://cfl.st.keirin.jp/84/dash/84.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-id="SpeedPlusOne695.jp" tvg-logo="https://ctc.gr.jp/upload/campaign/012243.jpg",佐世保競輪
+https://cfl.st.keirin.jp/85/dash/85.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/012281.jpg",別府競輪
+https://cfl.st.keirin.jp/86/dash/86.mpd
+
+#EXTINF:-1 group-title="競輪(SPEED)" tvg-logo="https://ctc.gr.jp/upload/campaign/000313.jpg",熊本競輪
+https://cfl.st.keirin.jp/87/dash/87.mpd
+
+#オートレース
+
+#EXTINF:-1 group-title="オートレース" tvg-logo="https://www.kawaguchiauto.jp/wp-content/themes/kawaguchi-ar_temp/images/common/logo@2x.png",川口オート
+https://autorace-live.akamaized.net/hls/live/2036917/id2/streaming/media.m3u8
+
+#EXTINF:-1 group-title="オートレース" tvg-id="SelectShopping.jp" tvg-logo="https://isesaki-auto.jp/wp-content/themes/isesakiauto2021/img/header_logo.png",伊勢崎オート
+https://autorace-live.akamaized.net/hls/live/2036917-b/id3/streaming/media.m3u8
+
+#EXTINF:-1 group-title="オートレース" tvg-logo="https://www.hamamatsuauto.jp/assets/images/common/hamamatsu_auto_logo.png",浜松オート
+https://autorace-live.akamaized.net/hls/live/2036917/id4/streaming/media.m3u8
+
+#EXTINF:-1 group-title="オートレース" tvg-logo="https://www.iizuka-auto.jp/wp-content/themes/iizukaautorace/shared/img/logo.png",飯塚オート
+https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
+
+#EXTINF:-1 group-title="オートレース" tvg-id="BetterLifeChannel.jp" tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png",山陽オート
+https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
+
+#韓国
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+
+#EXTINF:-1 group-title="韓国" tvg-id="EBS1TV.kr" tvg-name="EBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="EBS2TV.kr" tvg-name="EBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLATDTV.kr" tvg-logo="https://i.imgur.com/3VSuYsn.png",MBC 麗水(ヨス) (1080p)
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png",MBC 忠北(チュンブク) (720p)
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png",MBC 春川(チュンチョン) (480p)
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC 大田(テジョン) (720p)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png",SBS CJB 清州(チョンジュ) (540p)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png",SBS G1 江原(カンウォン) (360p)
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS 済州(チェジュ) (720p)
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLDQDTV.kr" tvg-logo="https://i.imgur.com/byss0Ld.png",SBS JTV 全州(チョンジュ) (406p)
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#オーストラリア
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCTVNSW.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Sydney (720p)
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCTVSA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Adelaide (720p)
+https://c.mjh.nz/abc-sa.m3u8
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCTVQLD.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Brisbane (720p)
+https://c.mjh.nz/abc-qld.m3u8
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCTVNT.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Darwin (720p)
+https://c.mjh.nz/abc-nt.m3u8
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCTVWA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Perth (720p)
+https://c.mjh.nz/abc-wa.m3u8
+
+#EXTINF:-1 group-title="オーストラリア" tvg-id="ABCMESydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png",ABC Me (720p)
+https://c.mjh.nz/abc-me.m3u8
