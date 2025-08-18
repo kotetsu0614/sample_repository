@@ -1,0 +1,322 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="関東" tvg-id="NHK東京・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="NHK東京・教育_jp"" tvg-logo="https://i.imgur.com/WxtftlO.png",NHKEテレ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/IxD8V5X.png",日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="テレビ朝日_jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="TBS_jp" tvg-logo="https://i.imgur.com/dUn2GRn.png",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="テレ東_jp"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1200px-TV_Tokyo_logo_2023.svg.png",テレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="TOKYO・MX_jp" tvg-logo="https://i.imgur.com/SwvuR00.png",TOKYO MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="関東" tvg-id="TOKYO・MX2_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (utako.moe)
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・大阪 (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・京都 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
+
+#EXTINF:-1 group-title="関西" tvg-id="NHK大阪・教育_jp" tvg-logo="https://i.imgur.com/WxtftlO.png",NHKEテレ大阪 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=Efifu_2sffWgvfUzPuoNvA==
+
+#EXTINF:-1 group-title="関西" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="毎日テレビ_jp" tvg-logo="https://i.imgur.com/RfrkGrd.png",MBS毎日放送 (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=-th1_a7-fXyMoWDACk-jjg==
+
+#EXTINF:-1 group-title="関西" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABCテレビ (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="テレビ大阪_jp" tvg-logo="https://i.imgur.com/rUmrruq.png",テレビ大阪 (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="関西テレビ_jp" tvg-logo="https://i.imgur.com/WMNg5De.png",関西テレビ (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西" tvg-id="読売テレビ_jp" tvg-logo="https://i.imgur.com/ONbuWvo.png",読売テレビ (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://i.imgur.com/8qUZ2KR.png",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://i.imgur.com/8qUZ2KR.png",NHK BS サブch (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=6&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=thRBrsQy5LgM0YhR7EJudg==
+
+#EXTINF:-1 group-title="BS" tvg-id="BS日テレ_jp" tvg-logo="https://i.imgur.com/D8lhZCI.png",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="BS朝日_jp" tvg-logo="https://i.imgur.com/scTEyhP.png",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="BS-TBS_jp" tvg-logo="https://i.imgur.com/h20eGKq.png",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp" tvg-logo="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&height=180&color=ffffff",BSテレ東4K (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=i9U0n9TJ5odRHqWxtilBRA==
+
+#EXTINF:-1 group-title="BS" tvg-id="BSフジ_jp" tvg-logo="https://i.imgur.com/kauowCM.png",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="WOWOWプライム_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOWプライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="WOWOWライブ_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png",WOWOWライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="WOWOWシネマ_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png",WOWOWシネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10 (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=juX1wIFGTBstyURxb0adxA==
+
+#EXTINF:-1 group-title="BS" tvg-id="BS11-イレブン_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=pGtcPp5upFDuPqvtBIBFlA==
+
+#EXTINF:-1 group-title="BS" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12 (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=VjsmFuZg2hW97hJFAhl5JA==
+
+#EXTINF:-1 group-title="BS" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png",J:COM BS (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="BS" tvg-id="BSよしもと_jp" tvg-logo="https://www.sky-1.co.jp/wp-content/uploads/sites/39/2022/03/BSyoshimoto_%E3%83%AD%E3%82%B4.png", BSよしもと (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=7_NqQ8YhAIHChUndlSRpYQ==
+
+#EXTINF:-1 group-title="NHK" tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXt0lOwQVNzg4IX0GQjrY02fJVRVEGLRcIg&s",NHK World Japan (HD)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 group-title="NHK" tvg-id="NHKワールド-PREMIUM_jp" tvg-logo="https://lh6.googleusercontent.com/proxy/1vKtDs9zSG92clWDBVs1s0qnX8iIPUzY4xcv5K4RZFL8L5vSutIHJyCSGWx3AIa9QeHbQeCkzWq-awLmPh04CFck83s5IRruKoAIa0HlEaa3",NHK World Premium (SD)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="タカラヅカ・スカイ・ステージ_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png",TAKARAZUKA SKY STAGE (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="囲碁・将棋チャンネル_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/G7Ernt-n_X5V7KUcreybIQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 囲碁・将棋チャンネル (171.244.62.178) SD
+http://171.244.62.178/jptv2/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="ショップチャンネル_jp" tvg-logo="https://i.imgur.com/22HhY28.png" group-title="shop_live",ショップチャンネル(stream3)
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="QVC_jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC(cdn-live1)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="釣りビジョン_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png",釣りビジョン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="旅チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="鉄道チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png",鉄道チャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Ih6yFFU-BWZYUxzjKvFzwg==
+
+#EXTINF:-1 group-title="CS" tvg-id="BBCニュース_jp" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png",BBCニュース (SD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="CNNj_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png",CNNj (SD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="日テレNEWS24_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/1200px-News24.svg.png", 日テレNEWS24 (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=TV1iYA79TqPdozWbwpOSgg==
+
+#EXTINF:-1 group-title="CS" tvg-id="TBS-NEWS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png",TBS NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="スポーツライブ+_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",スポーツライブ＋ (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=4bxbDgOoPvVu1jn-JcPCIA==
+
+#EXTINF:-1 group-title="CS" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",FIGHTING TV サムライ (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Yg2MUia31VB-YVInrMhFMw==
+
+#EXTINF:-1 group-title="CS" tvg-id="ゴルフネットワーク_jp" tvg-logo="https://i.imgur.com/KARkvfS.png",ゴルフネットワーク
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="J-SPORTS-1_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="J-SPORTS-2_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="J-SPORTS-3_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="J-SPORTS-4_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="スカイA_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",スカイA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="日テレジータス_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvpRB7RiWZMLTv2TDTGYnKtH5CCBu8C3eBw&s",日テレジータス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="テレ朝チャンネル1_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", テレ朝チャンネル1 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=-KcK0oRN-MHmABr2tu77zg==
+
+#EXTINF:-1 group-title="CS" tvg-id="テレ朝チャンネル2_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel2.png", テレ朝チャンネル2 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=RLwfnqOjOHGRx6UW3qBXsg==
+
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビONE_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",フジテレビONE (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Dx6WyGj7aJoy6QyTUbq2dg==
+
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビTWO_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",フジテレビTWO (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=xU1ix5hIdSVM9DfWLcR0Mg==
+
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビNEXT_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png",フジテレビNEXT (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=xPyiMHfxozuDu6vNznDdXA==
+
+#EXTINF:-1 group-title="CS" tvg-id="TBSチャンネル1_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBSチャンネル1 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=XPdnc60q681yL5pyEmrslg==
+
+#EXTINF:-1 group-title="CS" tvg-id="TBSチャンネル2_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBSチャンネル2 (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=lnkIr92VbBZwz09Cjs9UGg==
+
+#EXTINF:-1 group-title="CS" tvg-id="エンタメ～テレ_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/entermei-telepng-jp.png", エンタメ～テレ (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=rGGe5kUnXQLOF4lnneST1g==
+
+#EXTINF:-1 group-title="CS" tvg-id="日テレプラス_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", 日テレプラス (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=1c9wCVY_quBwDk4RNxuPWw==
+
+#EXTINF:-1 group-title="CS" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpeg",ディズニー・チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="BS10スターチャンネル_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BS10_STAR_CHANNEL.png",BS10スターチャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Hj8HzlXSQnqBFMUva4MA4g==
+
+#EXTINF:-1 group-title="CS" tvg-id="衛星劇場_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="東映チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",東映チャンネル (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="WOWOWプラス_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png", WOWOWプラス (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=QEVz-1pR9Lo_m2bc2dqHfQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="ザ・シネマ_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/QPelIt74En18qe57ctzA7g==.jpg?type=live&thumbnail=thumbnail_small.jpg", ザ・シネマ (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=QPelIt74En18qe57ctzA7g==
+
+#EXTINF:-1 group-title="CS" tvg-id="ムービープラス_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="映画・チャンネルNECO_jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",チャンネルNECO (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=IV-rbOb904jfHM_7iXe9DA==
+
+#EXTINF:-1 group-title="CS" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://www.nihon-eiga.co.jp/assets/images/mv-nihoneiga.png",日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="V-パラダイス_jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V☆パラダイス (utako.moe)
+https://mt02.utako.moe/v_paradise/index.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・エア_jp" tvg-logo="https://www.musicair.co.jp/wp-content/uploads/ma_logo.png", ミュージック・エア (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Jl0-Wqlcv-_Y15-k2ocPIw==
+
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png",ミュージック・ジャパンTV (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=QMo2pn1hiih5XYKptbKfuA==
+
+#EXTINF:-1 group-title="CS" tvg-id="MTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/_RVyS6Uym1zs93N3KvDcsw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MUSIC ON! TV (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=_RVyS6Uym1zs93N3KvDcsw==
+
+#EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",スペースシャワーTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png",歌謡ポップスチャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=1Tr6-XU6jnR9bECmjsJg8g==
+
+#EXTINF:-1 group-title="CS" tvg-id="スーパー!ドラマTV_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/wZWk8tf5_mxogAG-EV6zIA==.jpg?type=live&thumbnail=thumbnail_small.jpg", スーパー！ドラマTV (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=wZWk8tf5_mxogAG-EV6zIA==
+
+#EXTINF:-1 group-title="CS" tvg-id="ミステリーチャンネル_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ajfvfjzToRaRPAD0O83-MQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ミステリーチャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=ajfvfjzToRaRPAD0O83-MQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="アクションチャンネル_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/7DAgtceRMrmqB0tdsO6edw==.jpg?type=live&thumbnail=thumbnail_small.jpg", アクションチャンネル (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=7DAgtceRMrmqB0tdsO6edw==
+
+#EXTINF:-1 group-title="CS" tvg-id="Dlife(ディーライフ)_jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Wv2NQ8gIdBfUArnsKIsdIg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Dlife (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Wv2NQ8gIdBfUArnsKIsdIg==
+
+#EXTINF:-1 group-title="CS" tvg-id="LaLa-TV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="MONDOTV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png",MONDO TV (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=6WNaVnjpGGYCdDmSAxSvFA==
+
+#EXTINF:-1 group-title="CS" tvg-id="ファミリー劇場_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ホームドラマチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png",ホームドラマチャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=859y5OLm0n2u1DZrEsgeFQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="時代劇専門チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="Pigoo_jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",アイドル専門チャンネルPigoo (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=ZPMe9i21mYzj4bNOlaYSyQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="チャンネル銀河_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png",チャンネル銀河 (FHD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ダンスチャンネル_jp" tvg-logo="https://www.dance-ch.jp/image/common/logo_f.png",ダンスチャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=kKx57kaG4Tz9tOTiLx8exA==
+
+#EXTINF:-1 group-title="CS" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=Nxk7xMmj7dV7iq_k08p2fQ==
+
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",カートゥーン ネットワーク (171.244.62.178) HD
+http://171.244.62.178/jptv2/get.php?id=noeD-Yf5Rph09MTEByH-Xw==
+
+#EXTINF:-1 group-title="CS" tvg-id="キッズステーション_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",キッズステーション
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="アニマックス_jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png",アニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ディズニージュニア_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",ディズニージュニア
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png",ナショナル ジオグラフィック
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="ディスカバリーチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",ディスカバリーチャンネル (171.244.62.178) FHD
+http://171.244.62.178/jptv2/get.php?id=I9B-HWhc2NgCmw6X9ahDMg==
+
+#EXTINF:-1 group-title="CS" tvg-id="アニマルプラネット_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",アニマルプラネット (SD)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
+
+#EXTINF:-1 group-title="CS" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",グリーンチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=165089&playseek=0&timestamp=1741892194&sign=e96bd00c37d42a06734cdad95559d96f2194a4402571a738d784964c77cde94c
