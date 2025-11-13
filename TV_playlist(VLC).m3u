@@ -1,0 +1,120 @@
+#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#関西(primehome)
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="NHK大阪・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK総合・大阪 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="毎日テレビ_jp" tvg-logo="https://i.imgur.com/RfrkGrd.png",MBS毎日放送 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABCテレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="テレビ大阪_jp" tvg-logo="https://i.imgur.com/rUmrruq.png",テレビ大阪 (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="関西テレビ_jp" tvg-logo="https://i.imgur.com/WMNg5De.png",関西テレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#EXTINF:-1 group-title="関西(primehome)" tvg-id="読売テレビ_jp" tvg-logo="https://i.imgur.com/ONbuWvo.png",読売テレビ (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#BS(primehome)
+
+#EXTINF:-1 group-title="BS(primehome)" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (primehome) FHD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=165046&playseek=0&timestamp=1741892270&sign=1af29201da34acab26eac7366411766bbccd46c285da907d9afa84e8ffde2a66
+
+#韓国
+
+#EXTINF:-1 group-title="韓国" tvg-id="HLAMDTV" tvg-logo="　",MBC 木浦(モクポ) HD
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="韓国" tvg-id="　" tvg-logo="　",MBC 忠州(チュンジュ) HD
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#関西(utako.moe)
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",サンテレビ (utako.moe)
+https://us1001.utako.moe/suntv/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="毎日テレビ_jp" tvg-logo="https://i.imgur.com/RfrkGrd.png",MBS毎日放送 (utako.moe)
+https://us1001.utako.moe/mbs/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (utako.moe)
+https://us1001.utako.moe/kbs/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABCテレビ (utako.moe)
+https://us1001.utako.moe/abc/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="テレビ大阪_jp" tvg-logo="https://i.imgur.com/rUmrruq.png",テレビ大阪 (utako.moe)
+https://us1001.utako.moe/tvo/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="関西テレビ_jp" tvg-logo="https://i.imgur.com/WMNg5De.png",関西テレビ (utako.moe)
+https://us1001.utako.moe/kansaitv/index.m3u8
+
+#EXTINF:-1 group-title="関西(utako.moe)" tvg-id="読売テレビ_jp" tvg-logo="https://i.imgur.com/ONbuWvo.png",読売テレビ (utako.moe)
+https://us1001.utako.moe/ytv/index.m3u8
+
+#BS(utako.moe)
+
+#EXTINF:-1 group-title="BS(utako.moe)" tvg-id="NHK・BSP_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1200px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K (utako.moe)
+https://us1001.utako.moe/bsp4k/index.m3u8
+
+#Rチャンネル
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_88" tvg-id="TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png",(108) TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_30" tvg-id="new_train_and_travel" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png",(186) 鉄道・旅
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_59" tvg-id="MensNeco" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png",(240) おとなの歓楽街 by MEN’S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_41" tvg-id="Gravure" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",(241) アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_40" tvg-id="ShigekiStrong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",(242) 刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rチャンネル" tvg-id="rch_42" tvg-id="Movie_2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",(243) 映画（年齢制限あり）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+#ABEMA
+
+#EXTINF:-1 tvg-id="abema-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ABEMA アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abema-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ABEMA アニメチャンネル2
+https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="special-plus-7" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/special-plus-7/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,アニメSPECIALチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anime-special-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-special-2/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,アニメSPECIAL2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-special-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="isekai-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,異世界・ファンタジーアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="isekai-anime-2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-2/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,異世界・ファンタジーアニメ2チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="isekai-anime-3" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/isekai-anime-3/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,異世界・ファンタジーアニメ3チャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lovecomedy-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/lovecomedy-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,ラブコメアニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dailylife-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/dailylife-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,日常・青春アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="late-night-anime" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/late-night-anime/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,深夜アニメチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anime-live" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/anime-live/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime" ,アニメLIVEチャンネル
+https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
