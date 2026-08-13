@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
+
+#obon
+
+#EXTINF:-1 group-title="obon" tvg-id="NHK東京・総合2_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",012 NHK総合・東京サブch（obon）
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=1
+
+#EXTINF:-1 group-title="obon" tvg-id="TOKYO・MX2_jp" tvg-logo="https://i.imgur.com/igia8OX.png",092 TOKYO MX2 (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=9
+
+#EXTINF:-1 group-title="obon" tvg-id="NHK京都・総合_jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",011 NHK京都・総合 (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=11
+
+#EXTINF:-1 group-title="obon" tvg-id="KBS京都_jp" tvg-logo="https://i.imgur.com/W5o98da.png",051 KBS京都 (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=14
+
+#EXTINF:-1 group-title="obon" tvg-id="NHK・BS2_jp" tvg-logo="https://i.imgur.com/t0uZcSR.png",102 NHK BSサブch (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=21
+
+#EXTINF:-1 group-title="obon" tvg-id="NHK・BSP_jp" tvg-logo="https://i.imgur.com/uvPpFo5.png",NHK BSP4K (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=22
+
+#EXTINF:-1 group-title="obon" tvg-id="BS日テレ-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png?",BS日テレ4K (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=28
+
+#EXTINF:-1 group-title="obon" tvg-id="BS朝日-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-151-400x400.png?",BS朝日4K (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=29
+
+#EXTINF:-1 group-title="obon" tvg-id="BS-TBS-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png?",BS-TBS4K (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=30
+
+#EXTINF:-1 group-title="obon" tvg-id="BSテレ東-4K_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png?",BSテレ東4K (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=31
+
+#EXTINF:-1 group-title="obon" tvg-id="BS10_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/1280px-Japan_BS10_logo.svg.png",200 BS10 (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=75
+
+#EXTINF:-1 group-title="obon" tvg-id="BSよしもと_jp" tvg-logo="https://www.ctb.jp/wp-content/themes/ctb_new/img/ico/ico_bs-yoshimoto.png",265 BSよしもと (obon)
+https://obon-bon-bon-2026.wasmer.app/index.php?ch_id=97
+
+#tv123
+
+#EXTINF:-1 group-title="tv123" tvg-id="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png",靖天日本台 (ch163)
+http://tv123.cc.cd/live.php?ch=163&sid=1517836a6ffba180947fa22c1661553d&exp=1786628336&sig=323f0d5fd86094584e728d6643bd4e9227e3cbe3510b4d146c8844b3a30058db
+
+#EXTINF:-1 group-title="tv123" tvg-id="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png",靖天日本台 (ch1454)
+http://tv123.cc.cd/live.php?ch=1454&sid=1517836a6ffba180947fa22c1661553d&exp=1786628336&sig=ad070671c66a8add29557c80af43210907603c118b08eea7b162bbcfb79e4488
+
+#EXTINF:-1 group-title="tv123" tvg-id="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png",靖天日本台 (ch2453)
+http://tv123.cc.cd/live.php?ch=2453&sid=1517836a6ffba180947fa22c1661553d&exp=1786628336&sig=aeb3214f8fa3a44e4ddc6e740d95f950ff3427418c0ca9ffacabf85c8367db25
+
+#EXTINF:-1 group-title="tv123" tvg-id="緯来日本台" tvg-logo="https://img.isuper.tv/Featured-IMG/2016/02/vl-japan-live.jpg",緯来日本台
+http://tv123.cc.cd/live.php?ch=1993&sid=1517836a6ffba180947fa22c1661553d&exp=1786628336&sig=dd6ea690b93483effc137e37ee3e76f3e8652b0057719f1a6ff6b7773107d2a5
+
+#EXTINF:-1 group-title="tv123" tvg-id="NHK WORLD Premium" tvg-logo="https://nhkworldpremium.com/img/common/logo.png",NHKワールドプレミアム
+http://tv123.cc.cd/live.php?ch=37&sid=c035549f659ca23068979d14ba3ba28f&exp=1786630096&sig=f45fae8579ec9f1b3f1d0a277e96acd1ef355aafc76d830db9d501bf188060e6
+
